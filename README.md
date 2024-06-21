@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak bohra</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **figlehq.com**
+- 🔭 I’m currently working on **ashuartexport.com**
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **Laravel, CodeIgniter**
 
-- 🤝 I’m Last working on **chattore.in**
+- 🤝 I’m Last working on **rajasthanifurnitures.com**
 
 - 📫 How to reach me **deepak.geekpeek@gmail.com**
 
